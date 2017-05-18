@@ -1,2 +1,3 @@
-# SwiftVideoPlayer
-业余时间写的一个基于网络请求的播放器
+
+# YCMathiOS-Swift
+## YCMathiOS-Swift 第一版2017年03月21日18:18:15
